@@ -68,3 +68,12 @@ git remote add origin https://github.com/Anderson0205/FCC-worldcup-db.git
 git remote rm origin
 git remote add origin https://github.com/Anderson0205/FCC-worldcup-db.git
 git add .
+git commit -m "first commit"
+git push
+git push -u origin main
+git branch -M main
+git push -u origin main
+git init
+git remote add origin https://github.com/Anderson0205/FCC-worldcup-db.git
+[200~git add .
+git add .
